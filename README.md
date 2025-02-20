@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/lab-3-walkthrough-vnCH8kB' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/x1iUR4r.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
